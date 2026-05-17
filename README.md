@@ -363,37 +363,37 @@ Response `200 OK`:
 
 ## Screenshots
 
-> **Note:** Replace each placeholder below with the actual screenshot image file placed in the `screenshots/` folder.
+> **Note:** Screenshots are located in the `docs/screenshots/` folder of this repository.
 
 ### UI Screenshots
 
 **Dashboard — Overview & Stats**
 
-![Dashboard](screenshots/ui/01_dashboard.png)
+![Dashboard](docs/screenshots/ui/01_dashboard.png)
 
 ---
 
 **Submit Feedback — Form Page**
 
-![Submit Feedback](screenshots/ui/02_submit_feedback.png)
+![Submit Feedback](docs/screenshots/ui/02_submit_feedback.png)
 
 ---
 
 **All Feedback — Listing with Filters**
 
-![Feedback List](screenshots/ui/03_feedback_list.png)
+![Feedback List](docs/screenshots/ui/03_feedback_list.png)
 
 ---
 
 **Feedback Detail — View, Edit & Delete**
 
-![Feedback Detail](screenshots/ui/04_feedback_detail.png)
+![Feedback Detail](docs/screenshots/ui/04_feedback_detail.png)
 
 ---
 
 **Search & Filter Page**
 
-![Search](screenshots/ui/05_search.png)
+![Search](docs/screenshots/ui/05_search.png)
 
 ---
 
@@ -403,43 +403,43 @@ Response `200 OK`:
 
 **GET /feedback — Retrieve All Feedback**
 
-![GET All Feedback](screenshots/api/01_get_all_feedback.png)
+![GET All Feedback](docs/screenshots/api/01_get_all_feedback.png)
 
 ---
 
 **GET /feedback/{id} — Retrieve by ID**
 
-![GET Feedback by ID](screenshots/api/02_get_feedback_by_id.png)
+![GET Feedback by ID](docs/screenshots/api/02_get_feedback_by_id.png)
 
 ---
 
 **POST /feedback — Submit New Feedback**
 
-![POST Feedback](screenshots/api/03_post_feedback.png)
+![POST Feedback](docs/screenshots/api/03_post_feedback.png)
 
 ---
 
 **PUT /feedback/{id} — Update Feedback**
 
-![PUT Feedback](screenshots/api/04_put_feedback.png)
+![PUT Feedback](docs/screenshots/api/04_put_feedback.png)
 
 ---
 
 **DELETE /feedback/{id} — Delete Feedback**
 
-![DELETE Feedback](screenshots/api/05_delete_feedback.png)
+![DELETE Feedback](docs/screenshots/api/05_delete_feedback.png)
 
 ---
 
 **GET /search — Search & Filter**
 
-![Search Feedback](screenshots/api/06_search_feedback.png)
+![Search Feedback](docs/screenshots/api/06_search_feedback.png)
 
 ---
 
 **GET /dashboard/stats — Dashboard Statistics**
 
-![Dashboard Stats](screenshots/api/07_dashboard_stats.png)
+![Dashboard Stats](docs/screenshots/api/07_dashboard_stats.png)
 
 ---
 
